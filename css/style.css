@@ -16,9 +16,9 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color:#4d5ae5 ;
+color:#4d5ae5;
  }
- .logo span {
+ .logo span{
     color: #2e2f42;
  }
  .nav-page{
@@ -70,11 +70,11 @@ color:#4d5ae5 ;
     background: #4d5ae5;
     cursor: pointer;
 }
-.main-page-botton:hover{
-    background: #404bbf;
+.main-page-button:hover{
+    background: #404BBF;
 }
-.main-page-botton:focus{
-    background: #404bbf;
+.main-page-button:focus{
+    background: #404BBF;
 }
 .title-2{
     font-family: "Roboto", sans-serif;
@@ -110,6 +110,18 @@ background-color: #FFFFFF
 
 .foot-part{
     background-color:#2e2f42;   
+}
+.logo-footer{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+.logo-footer span{
+    color: #f4f4fd;
 }
 .text-footer{
     font-family: "Roboto", sans-serif;
