@@ -13,7 +13,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5 ;
@@ -55,6 +55,7 @@ color:#4d5ae5 ;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
+        text-align:center;
         color: #fff;
         background: #2e2f42;
  }
@@ -91,8 +92,9 @@ color:#4d5ae5 ;
         color: #434455;
 }
 .team{
-background-color: #F4F4FD
+background-color: #FFFFFF
 }
+.title-1,
 #contacts,
 #portfolio{
     font-family: "Roboto", sans-serif;
