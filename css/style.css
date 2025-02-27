@@ -84,6 +84,22 @@ color:#4d5ae5;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.title-team{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+
+}
+.text-team{
+    font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 .text-1{
     font-family: "Roboto", sans-serif;
         font-size: 16px;
@@ -92,7 +108,10 @@ color:#4d5ae5;
         color: #434455;
 }
 .team{
-background-color: #FFFFFF
+background-color: #F4F4FD;
+}
+.tem-list{
+    background-color: #FFFFFF;
 }
 .title-1,
 #contacts,
@@ -106,6 +125,31 @@ background-color: #FFFFFF
         text-transform: capitalize;
         color: #2e2f42;
 
+}
+.portfolio{
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.title-portfolio{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.text-portfolio{
+font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .foot-part{
