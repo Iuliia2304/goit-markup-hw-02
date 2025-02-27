@@ -174,10 +174,10 @@ font-family: "Roboto", sans-serif;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;
+        color:#4d5ae5;
 }
 .logo-footer span{
-    color: #f4f4fd;
+    color:#f4f4fd;
 }
 .text-footer{
     font-family: "Roboto", sans-serif;
